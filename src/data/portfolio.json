@@ -1,0 +1,31 @@
+{
+  "name": "Yamparala Rahul",
+  "heroTitle": "Hi, welcome to My Portfolio. I am Rahul, UX Design Engineer",
+  "heroSubtitle": "Explore some of ongoing projects.",
+  "theme": {
+    "background": "#FFFFFF",
+    "text": "#09090B",
+    "font": "Geist Mono"
+  },
+  "heroImage": {
+    "alt": "Rahul portrait",
+    "src": "/images/hero_portrait.png"
+  },
+  "cards": [
+    {
+      "title": "Deriverse Journal",
+      "description": "A digital journal exploring the intersection of derivative markets and user experience design.",
+      "image": { "src": "/images/project_journal_cover.png", "alt": "Deriverse Journal cover" },
+      "ctaLabel": "Open",
+      "href": "#project1"
+    },
+    {
+      "title": "Design Log",
+      "description": "Daily design experiments and thoughts on visual hierarchy, typography, and grid systems.",
+      "image": { "src": "/images/project_design_log_cover.png", "alt": "Design Log cover" },
+      "ctaLabel": "Open",
+      "href": "#project2"
+    }
+  ],
+  "footer": "Free to copy, remix etc by Yamparala Rahul 2026."
+}
